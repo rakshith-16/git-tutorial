@@ -1,2 +1,2 @@
 # git-tutorial
-Author -Rakshith
+Author -Rakshith (xylem company)
